@@ -3,7 +3,8 @@ Why do you need to do it? You might have a project with different versions to ke
 
 
 
-How is the staging area different from the working directory and the repository?
+How is the staging area different from the working directory and the repository? The staging area is a limbo area between the
+working directory and a commit to the repository.
 
 
 What value do you think it offers?
